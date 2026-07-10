@@ -1,0 +1,281 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Diagrama C4 de nível 1" id="8IS3mnfDQGJTXlgvYD24">
+    <mxGraphModel dx="1285" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-4" edge="1" parent="1" source="GCLyhnqS8sL0eUiNVYGh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5YHmlOdA7mXEcWLJMvxH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCLyhnqS8sL0eUiNVYGh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;Jogador&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(60, 52, 137); font-weight: 400;&quot;&gt;Usuário final da plataforma&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-11" edge="1" parent="1" source="GCLyhnqS8sL0eUiNVYGh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P8KJ24MLlkcdY6bpqcsY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCLyhnqS8sL0eUiNVYGh-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;Analista de fraude&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(60, 52, 137); font-weight: 400;&quot;&gt;Revisa alertas e quarentenas&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-10" edge="1" parent="1" source="GCLyhnqS8sL0eUiNVYGh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="P8KJ24MLlkcdY6bpqcsY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCLyhnqS8sL0eUiNVYGh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;Administrador&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(60, 52, 137); font-weight: 400;&quot;&gt;Configura regras e thresholds&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="760" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-8" edge="1" parent="1" source="P8KJ24MLlkcdY6bpqcsY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5YHmlOdA7mXEcWLJMvxH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-5" edge="1" parent="1" source="P8KJ24MLlkcdY6bpqcsY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5YHmlOdA7mXEcWLJMvxH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8KJ24MLlkcdY6bpqcsY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Motor de Antifraude&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Scoring · quarentena&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;· painel admin&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="360" x="380" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-7" edge="1" parent="1" source="5YHmlOdA7mXEcWLJMvxH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="P8KJ24MLlkcdY6bpqcsY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Backend da plataforma&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(102, 102, 102); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Emite eventos de jogo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Sistema de notificações&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(102, 102, 102); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Recebe alertas de quarentena&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="480" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5YHmlOdA7mXEcWLJMvxH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Serviço de feature flags&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(102, 102, 102); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Fornece flags de controle&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="760" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Joga&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="210" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Envia eventos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="340" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Dispara alerta&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="560" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Lê flags&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Configura regras&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="700" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1JNDyGF0AeSvsEfLFUYN-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Consulta e ação&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="460" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7kYmCIctN7hDoR8yUCnX-2" parent="1" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0QF8ukohuRhuOiaX6Yp8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Aplicação / serviço&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="110" x="218" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0QF8ukohuRhuOiaX6Yp8-2" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="190" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0QF8ukohuRhuOiaX6Yp8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Ator&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="30" x="147" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0QF8ukohuRhuOiaX6Yp8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Sistema externo&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="102" x="374" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0QF8ukohuRhuOiaX6Yp8-5" parent="1" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="350" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WZAhcxyjVDzORsiPmxTL" name="Diagrama C4 de nível 2">
+    <mxGraphModel dx="1346" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Analista / Admin&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(102, 102, 102); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;Usuário interno&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="64" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;perimeterSpacing=0;strokeWidth=1;rotation=0;absoluteArcSize=1;arcSize=30" value="" vertex="1">
+          <mxGeometry height="610" width="910" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;HTTPS / Browser&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="126" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Eventos de jogo [HTTPS/JSON]&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="470" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-6" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;Painel Admin (SPA)&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;React · alertas e ações&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="49" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-8" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-10" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="350" />
+              <mxPoint x="124" y="350" />
+            </Array>
+            <mxPoint x="124" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-43" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;API Gateway&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;Auth · rate limit · roteamento&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="396" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-12" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(8, 80, 65), rgb(134, 196, 183)); background-color: transparent;&quot;&gt;Feature flag service&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;desc&quot; style=&quot;font-weight: 400; box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86);&quot;&gt;ACL · cache em memória&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="660" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-14" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-15" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;strokeColor=#82b366;labelBorderColor=none;fillColor=#d5e8d4;" target="IF_SJBQGbCkqsGLw6f9z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-1" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" target="IF_SJBQGbCkqsGLw6f9z-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="86" y="740" />
+              <mxPoint x="612" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;Scoring service&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;Calcula risk score&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="49" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-19" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5SwQ5dpS91-qtqq-Nli-1" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;Quarantine service&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;Gerencia quarentenas&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="396" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-21" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;Notification service&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(15, 110, 86); font-weight: 400;&quot;&gt;Dispara alertas&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="660" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-23" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" target="IF_SJBQGbCkqsGLw6f9z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;Fila de mensagens&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(60, 52, 137); font-weight: 400;&quot;&gt;Redis Pub/Sub · Celery&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="575" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;Event store&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(60, 52, 137); font-weight: 400;&quot;&gt;PostgreSQL · Event Sourcing&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="236" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(44, 44, 42);&quot;&gt;Serv. feature flags&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(95, 94, 90); font-weight: 400;&quot;&gt;Flags externas / ACL&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="960" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 13px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(8, 80, 65);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3;&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(38, 33, 92);&quot;&gt;&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.3; color: rgb(44, 44, 42);&quot;&gt;Notificações&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 11px; line-height: 1.4; color: rgb(95, 94, 90); font-weight: 400;&quot;&gt;E-mail / webhook&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="960" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Chamadas de API para ações admin&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;[HTTPS]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Consulta flag de controle&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[HTTP]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="551" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 13px; font-weight: 600; text-align: start; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Motor de Antifraude&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(102, 102, 102), rgb(149, 149, 149));&quot;&gt;Python&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; color: light-dark(rgb(102, 102, 102), rgb(185, 179, 252));&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(102, 102, 102), rgb(149, 149, 149));&quot;&gt;&amp;nbsp;FastAPI&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; color: light-dark(rgb(102, 102, 102), rgb(185, 179, 252));&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(102, 102, 102), rgb(149, 149, 149));&quot;&gt;&amp;nbsp;Docker&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="670" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Encaminha ação de admin&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[HTTP]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="475" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Encaminha evento para scoring&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;[HTTP]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="250" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Publica score calculado&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[Redis]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="286" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Persiste evento de comportamento&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[SQL]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="121" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Consulta histórico do jogador [SQL]&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="156" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Persiste decisão de quarentena [SQL]&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="320" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-44" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IF_SJBQGbCkqsGLw6f9z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div class=&quot;name&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-weight: 600; line-height: 1.3; color: rgb(34, 34, 34); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font&gt;Backend da plataforma&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;desc&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 1.4; color: rgb(102, 102, 102); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font&gt;Sistema externo&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="411" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Consome score&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[Celery]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="500" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Dispara alerta de quarentena&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[HTTP]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="546" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Envia notificação ao analista&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;[SMTP/HTTP]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="820" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_SJBQGbCkqsGLw6f9z-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;Sincroniza flags&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(102, 102, 102), rgb(237, 237, 237));&quot;&gt;[HTTP - CB]&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="820" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="rx-wQMTBjnZ5eRoz7mRU-1" edge="1" parent="1" source="IF_SJBQGbCkqsGLw6f9z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IF_SJBQGbCkqsGLw6f9z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Aplicação / serviço&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="90" x="50" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-9" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Dados / mensageria&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="91" x="161" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-18" parent="1" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="150" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Sistema externo&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="76" x="271" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-20" parent="1" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="260" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ator&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="20" x="373" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-23" parent="1" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="14.89" as="sourcePoint" />
+            <mxPoint x="420" y="14.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Síncrono (HTTP/SQL)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="100" x="420" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="14.94" as="sourcePoint" />
+            <mxPoint x="540" y="15.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Assíncrono (Redis/Celery)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="119" x="540" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="14.94" as="sourcePoint" />
+            <mxPoint x="680" y="15.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf_-qvaf1HKQJMwdtUGC-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Leitura (SQL)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="60" x="681" y="9" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
