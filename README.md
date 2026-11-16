@@ -1,5 +1,7 @@
 # Motor de Antifraude (POC 2)
 
+> **Versão completa:** este repositório guarda o esqueleto inicial do projeto (ambiente Docker, ADRs e diagramas C4). O motor implementado, com os serviços, o painel admin e o CI, está em [zzdavix/Antifraude-Minimo-Viavel-ESD](https://github.com/zzdavix/Antifraude-Minimo-Viavel-ESD). Projeto em equipe da disciplina de Engenharia de Sistemas Distribuídos (UFPB, 2026.1).
+
 Ambiente local do projeto, definido a partir do Stack Tecnológico já
 aprovado com o time.
 
